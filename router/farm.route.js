@@ -6,7 +6,7 @@ const {
   allFarm,
   isBooked,
   allBookedFarm,
-} = require('../controllers/Farm.controller');
+} = require('../controllers/farm.controller');
 const { isAuth } = require('../middleware/isAuth');
 
 const router = express.Router();
