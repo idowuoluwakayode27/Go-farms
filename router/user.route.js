@@ -20,7 +20,7 @@ router.post('/signup', userSignup);
 router.post('/login', userLogin);
 
 // view all farm
-router.get('/farms',isAuth, allfarm);
+router.get('/farms', allfarm);
 
 // view single farm by id
 router.get('/farm/:id',isAuth, getSinglefarmById);
@@ -29,7 +29,7 @@ router.get('/farm/:id',isAuth, getSinglefarmById);
 router.put('/farm/book/:id',isAuth, bookfarm);
 
 // get all booked farm
-router.get('/booked', isAuth, allBookedfarm);
+router.get('/booked', allBookedfarm);
 
 // change to admin
 router.put('/admin/:id', switchAdmin);

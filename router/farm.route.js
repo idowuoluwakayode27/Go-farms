@@ -13,7 +13,7 @@ const router = express.Router();
 
 // create a new Farm
 router.post('/create', isAuth,addFarm);
-router.get('/all',isAuth,allFarm);
+router.get('/all',allFarm);
 router.put('/book', isAuth,isBooked);
 router.get('/booked', isAuth,allBookedFarm);
 

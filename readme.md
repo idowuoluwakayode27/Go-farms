@@ -7,9 +7,8 @@ Task: Create an endpoint to complement their pre-existing endpoint that has the 
 ##### **Users**
 1. Must be able to sign up
 2. Must be able to login
-3. Must be able to see all farm produce in their categories (Fishery, Poultry,
-Piggery, Crops etc.)
-4. Must be able to (buy by order) any product with a specified price tag
+3. Must be able to see all farm produce in their categories (Fishery, Poultry,Piggery, Crops etc.)
+4. Must be able to (buy by order) any product 
 5. Must be able to update his/her order
 6. Must be able to delete his/her order
 7. Must be able to see all farms divisions (Trainings, House consultation,
@@ -27,10 +26,10 @@ Health products, Feed analysis and research, Livestock Feeds)
 * POSTMAN for my api testing,
 * Markdown for my documentation,
 * Github for my version control.
-The link to the documentation is linked [here]()
+The link to the documentation is linked [here](https://documenter.getpostman.com/view/22552721/VUxNS89L)
 
 **Article on the topic**  
-* “Relational database and Non relational database”; 
+* Relational database and Non relational database; 
 
 The Link to the article is here:
-[click here](https://dev.to/idowuoluwakayode27/relational-databases-and-non-relational-databases-79j)# Go-farms
+[click here](https://dev.to/idowuoluwakayode27/relational-databases-and-non-relational-databases-79j)
